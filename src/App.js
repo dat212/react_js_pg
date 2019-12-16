@@ -4,7 +4,6 @@ import './App.css'
 import store from './redux/store'
 import UsersContainer from './components/UsersContainer'
 import BookContainer from './components/BookContainer'
-import IceCreamContainer from './components/IceCreamContainer'
 import NewBookContainer from './components/NewBookContainer'
 
 function App() {
